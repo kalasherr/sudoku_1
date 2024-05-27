@@ -1,0 +1,3 @@
+C:/cmake_sudoku/build/CMakeFiles/my_sfml_app.dir
+C:/cmake_sudoku/build/CMakeFiles/ALL_BUILD.dir
+C:/cmake_sudoku/build/CMakeFiles/ZERO_CHECK.dir
